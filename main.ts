@@ -1,18 +1,18 @@
 enum barb_fitting {
-    //% block="LEFT"
+    //% block="L按钮"
     JOYSTICK_BUTOON_LEFT_L = 0,
-    //% block="RIGHT" 
+    //% block="R按钮"
     JOYSTICK_BUTOON_RIGHT_R = 1,
-    //% block="LEFTA"
+    //% block="A按钮"
     JOYSTICK_BUTTON_LEFT = 2,
-    //% block="RIGHTA" 
+    //% block="B按钮"
     JOYSTICK_BUTTON_RIGHT = 3,
 }
 
 enum key_status {
-    //% block="DOWN"
+    //% block="按下"
     JOYSTICK_PRESS_DOWN = 0,   //按下
-    //% block="UP"
+    //% block="释放"
     JOYSTICK_PRESS_UP = 1,    //释放
     // //% block="CLICK1"
     // SINGLE_CLICK = 3,     //单击
@@ -32,9 +32,9 @@ enum Shaft{
 }
 
 enum Wiggly{
-    //% block="LEFT"
+    //% block="左摇杆"
     JOYSTICK_left_wi = 0,
-    //% block="RIGHT"
+    //% block="右摇杆"
     JOYSTICK_right_wi = 1,
 }
 
