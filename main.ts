@@ -3,9 +3,9 @@ enum barb_fitting {
     JOYSTICK_BUTOON_LEFT_L = 0,
     //% block="R按钮"
     JOYSTICK_BUTOON_RIGHT_R = 1,
-    //% block="A按钮"
+    //% block="左摇杆按钮"
     JOYSTICK_BUTTON_LEFT = 2,
-    //% block="B按钮"
+    //% block="右摇杆按钮"
     JOYSTICK_BUTTON_RIGHT = 3,
 }
 
