@@ -1,0 +1,16 @@
+{
+    "name": "joystick",
+    "version": "1.0.0",
+    "description": "Joystick:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+		"_locales/zh/sensors-strings.json"
+		
+    ],
+    "public": true
+}
